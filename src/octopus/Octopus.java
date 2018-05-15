@@ -16,6 +16,10 @@ public class Octopus {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("soy un pulpo");
+        for (int i = 0; i < 7; i++) {
+            System.out.println("pata");
+        }
     }
     
 }
