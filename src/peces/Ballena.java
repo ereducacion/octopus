@@ -10,5 +10,5 @@ package peces;
  * @author Eva Royo
  */
 public class Ballena {
-    
+    private int tipo;
 }
